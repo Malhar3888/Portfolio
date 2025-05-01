@@ -571,7 +571,7 @@ section,
 }
 
 .hero .container {
-  position: absolute;
+  position: relative;
   z-index: 3;
 }
 
