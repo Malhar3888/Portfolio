@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+  $receiving_email_address = 'malhardhavale2005@gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -27,7 +27,7 @@
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
     'username' => 'malhardhavale2005@gmail.com',
-    'password' => '3888',
+    'password' => 'ffhj lcxa eebx wvwl',
     'port' => '587'
   );
  
